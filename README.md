@@ -50,6 +50,6 @@ Movie Library — это графическое приложение для ве
 ## Как запустить
 
 ```bash
-git clone https://github.com/твой-логин/movie-library.git
-cd movie-library
-python movie_library.py
+git clone https:/Arina900/github.com//python.git
+cd python
+python itogovaya.py
